@@ -1,1 +1,3 @@
-/*eslint-disable*/module.exports={messages:JSON.parse("{\"KIjvtr\":[\"Dutch\"],\"M55mLW\":[\"Pseudo\"],\"h1IXFK\":[\"Chinese\"],\"lYGfRP\":[\"English\"]}")};
+module.exports = {
+  messages: JSON.parse('{"KIjvtr":["Dutch"],"M55mLW":["Pseudo"],"h1IXFK":["Chinese"],"lYGfRP":["English"]}'),
+}

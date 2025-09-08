@@ -1,1 +1,3 @@
-/*eslint-disable*/module.exports={messages:JSON.parse("{\"KIjvtr\":[\"荷蘭語\"],\"M55mLW\":[\"偽\"],\"h1IXFK\":[\"中國人\"],\"lYGfRP\":[\"英語\"]}")};
+module.exports = {
+  messages: JSON.parse('{"KIjvtr":["荷蘭語"],"M55mLW":["偽"],"h1IXFK":["中國人"],"lYGfRP":["英語"]}'),
+}
